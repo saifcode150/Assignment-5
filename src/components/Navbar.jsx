@@ -3,7 +3,7 @@
 const Navbar = () => {
     return (
         <>
-            <div className="flex justify-between mt-6  mx-30 text-xs sticky top-0 py-2 bg-white">
+            <div className="flex justify-between mt-6  mx-23 text-xs sticky top-0 py-2 bg-white">
 
                 <div className="w-30">
                     <img src="/logo-text.png" alt="DevStack Logo"/>
