@@ -23,7 +23,7 @@ const Footer = () => {
               </ul>
                     <ol className="text-[10px] py-3 text-gray-700">
                         <li>Home</li>
-                        <li>Technologies</li>
+                        <li className="py-2">Technologies</li>
                         <li>Projects  </li>
                     </ol>
                   
@@ -37,7 +37,7 @@ const Footer = () => {
                 
                 <ol className="list-none text-[10px] py-3 text-gray-700">
                      <li>About</li>
-                    <li>Contact</li>
+                    <li className="py-2">Contact</li>
                     <li>Careers</li>
                 </ol>
                
@@ -48,7 +48,7 @@ const Footer = () => {
                     <li className="text-[13px] font-bold">LEGAL</li>
                 </ul>
                     <ol className="list-none text-[10px] py-3 text-gray-700">
-                        <li>Privacy Policy</li>
+                        <li className="py-2">Privacy Policy</li>
                         <li>Terms of Service</li>
                     </ol>
                    
