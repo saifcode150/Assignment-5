@@ -32,8 +32,7 @@ const Card = () => {
                 JavaScript library for building modern user<br />
                 interfaces.</p>
                 <ul className="flex justify-between mt-4 mb-4">
-                    <li> <button className=" border-gray-200 rounded-[5px] bg-[#F1F5F9] py-0.5 px-2 cursor-pointer">Fronted</button> 
-                    </li>
+                    <li className=" border-gray-200 rounded-[5px] bg-[#F1F5F9] py-0.5 px-2 ">Fronted</li>
                     <li className="text-gray-500">Beginner-Friendly</li>
                     <li> <span className="text-yellow-500">★</span> 4.9</li>
                 </ul>
