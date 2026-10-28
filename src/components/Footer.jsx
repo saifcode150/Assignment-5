@@ -6,7 +6,7 @@ const Footer = () => {
 
             <section className="flex justify-between mx-23 mt-18 mb-10">
                     <div>
-                <img src="./logo-text.png" alt=""  className="w-30"/>
+                <img src="./logo-text.png" alt=" dev stack logo"  className="w-30"/>
                 <p className="text-[10px] py-3 text-gray-700">Curated tools, technologies, and resources for developers building<br />
                 modern software.</p>
                     <ul className="flex justify-between text-[11px] font-bold mt-3">
